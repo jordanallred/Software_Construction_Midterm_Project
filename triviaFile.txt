@@ -1,0 +1,120 @@
+Which state is the Apple HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+1
+Which state is the Samsung HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+4
+Which state is the Amazon HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+2
+Which state is the Google HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+1
+Which state is the Facebook HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+1
+Which state is the microsoft HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+2
+Which state is the IBM HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+3
+Which state is the Sony HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+4
+Which state is the Intel HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+1
+Which state is the HP HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+1
+Which state is the Cisco HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+1
+Which state is the Dell HQ in?
+1) California
+2) Washington
+3) New York
+4) None of the Above
+4
+Who founded Google?
+1) Charles Flint
+2) Larry Page and Serge Brin
+3) Donald Knuth
+4) Alan Turing
+2
+Who founded IBM?
+1) Bill Gates
+2) Elon Musk
+3) Edsger Dijkstra
+4) Tim Berners-Lee
+1
+Who founded HP?
+1) Charles Flint
+2) Larry Page and Serge Brin
+3) Gordon Moore and Robert Noyce
+4) David Packard and William Hewlett
+4
+Who founded Amazon?
+1) Donald Knuth
+2) Tim Berners-Lee
+3) Jeff Bezos
+4) Alan Turing
+3
+Who founded Intel?
+1) Gordon Moore and Robert Noyce
+2) James Gosling
+3) Grace Hopper
+4) Edger Dijkstra
+1
+Who founded Apple?
+1) Steve Jobs
+2) Steve Jobs and Steve Wozniak
+3) Ashton Kutcher
+4) Elon Musk
+2
+Who founded Microsoft?
+1) Ken Thompson
+2) Bill Joy
+3) Bill Gates and Paul Allen
+4) Bill Gates
+3
+Who founded Facebook?
+1) Mark Zuckerberg
+2) Jesse Eisenber
+3) Ken Thompson
+4) Mark Zuckerberg, Dustin Moskovitz, Eduardo Saverin, Andrew McCollum, and Chris Hughes
+4
